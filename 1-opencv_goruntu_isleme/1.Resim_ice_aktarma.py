@@ -6,3 +6,5 @@ img = cv2.imread("C:\\Users\\alperh\\PycharmProjects\\goruntu_isleme\\1-opencv_g
 cv2.imshow("den", img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+# deneme
