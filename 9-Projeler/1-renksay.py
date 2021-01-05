@@ -6,8 +6,8 @@ import numpy as np
 # RENK = 'YESIL'
 
 # 1. deneme
-alt_Renk = (10, 100, 100)
-ust_Renk = (40, 255, 255)
+# alt_Renk = (10, 100, 100)
+# ust_Renk = (40, 255, 255)
 
 # 2.deneme
 # alt_Renk = (20, 100, 100)
@@ -21,11 +21,15 @@ ust_Renk = (40, 255, 255)
 # 5.deneme
 # alt_Renk = (0, 162, 186)
 # ust_Renk = (46, 242, 255)
-RENK = 'SARI'
+# RENK = 'SARI'
 
 # alt_Renk = (170, 100, 100)
 # ust_Renk = (190, 255, 255)
 # RENK = 'KIRMIZI'
+
+alt_Renk = (0, 0, 168)
+ust_Renk = (172, 111, 255)
+RENK = 'BEYAZ'
 
 # alt_Renk = (75, 100, 100)
 # ust_Renk = (130, 255, 255)
